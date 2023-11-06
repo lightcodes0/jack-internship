@@ -55,7 +55,7 @@
     bottom: -30px; 
     right: 50%; 
     z-index: 5;
-    transform: translateX(50%); /* Center horizontally using transform */
+    transform: translateX(50%); 
 }
 
 .collection__text--skeleton {
@@ -102,10 +102,10 @@
     /* CAROUSEL  */
 
 .owl-next {
-    right: -25px; /* Adjust the right position for the next button */
+    right: -25px;
   }
   
 .owl-prev {
-    left: -25px; /* Adjust the left position for the previous button */
+    left: -25px;
   }
 
